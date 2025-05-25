@@ -6,7 +6,7 @@
       {
         "id": "yamada",
         "name": "山田太郎",
-        "okVideo": "/quiz-new/public/yamada_ok.mp4",
+        "okVideo": "/quiz-new/yamada_ok.mp4",
         "ngImage": "/quiz-new/yamada_ng.png"
       },
       {
