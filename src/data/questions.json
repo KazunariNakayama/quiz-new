@@ -7,7 +7,7 @@
         "id": "yamada",
         "name": "山田太郎",
         "okVideo": "/videos/yamada_ok.mp4",
-        "ngImage": "/images/yamada_ng.png"
+        "ngImage": "/yamada_ng.png"
       },
       {
         "id": "suzuki",
@@ -73,7 +73,7 @@
         "id": "yamada",
         "name": "山田太郎",
         "okVideo": "/videos/yamada_ok.mp4",
-        "ngImage": "/images/yamada_ng.png"
+        "ngImage": "/yamada_ng.png"
       },
       {
         "id": "suzuki",
