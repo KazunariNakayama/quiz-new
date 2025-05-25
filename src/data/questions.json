@@ -6,8 +6,8 @@
       {
         "id": "yamada",
         "name": "山田太郎",
-        "okVideo": "/videos/yamada_ok.mp4",
-        "ngImage": "/yamada_ng.png"
+        "okVideo": "/quiz-new/public/yamada_ok.mp4",
+        "ngImage": "/quiz-new/public/yamada_ng.png"
       },
       {
         "id": "suzuki",
@@ -73,7 +73,7 @@
         "id": "yamada",
         "name": "山田太郎",
         "okVideo": "/videos/yamada_ok.mp4",
-        "ngImage": "/yamada_ng.png"
+        "ngImage": "/quiz-new/yamada_ng.png"
       },
       {
         "id": "suzuki",
